@@ -59,7 +59,7 @@
 ---
 
 ## 交流与获取更多资料
-因本人水平有限，请注意甄别。  
+本人水平有限，资料请注意甄别。  
 如果你有问题，或需要 **CPTD0007** 中的实验数据与实验报告原图，可通过微信联系，一起交流 ☘
 
 <img src="https://raw.githubusercontent.com/Aurora1094/assets/main/WeChat.png" alt="微信二维码" width="220" />
